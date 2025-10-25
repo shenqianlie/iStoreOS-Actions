@@ -18,14 +18,6 @@ on:
         description: '请输入默认网关（静态地址时必填）'
         required: true
         default: '192.168.5.1'
-      include_docker:
-        description: "是否集成Docker插件"
-        required: true
-        default: 'yes'
-        type: choice
-        options:
-          - 'yes'
-          - 'no'
 
 env:
   VERSION: 24.10.4
