@@ -13,7 +13,7 @@
 | 插件                     | 状态 | 插件                      | 状态  |
 |:------------------------:|:----:|:------------------------:|:----:|
 | ramfree释放内存          | ✅   | openlist2                | ⏳   |
-| FileBrowser文件浏览      | ✅   | adguardhome              | ⏳   |
+| FileBrowser文件浏览      | ⏳   | adguardhome              | ✅   |
 | lucky                    | ⏳   | luci-app-amlogic        | ✅   |
 | 其他                     | ⏳   |                         |       |
 
