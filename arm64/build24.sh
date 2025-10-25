@@ -35,8 +35,8 @@ echo "$(date '+%Y-%m-%d %H:%M:%S') - 开始构建固件..."
 PACKAGES=""
 
 # iStoreOS官方集成列表，若启用则打开注释
-PACKAGES="$PACKAGES adb"
-PACKAGES="$PACKAGES adb-enablemodem"
+#PACKAGES="$PACKAGES adb"
+#PACKAGES="$PACKAGES adb-enablemodem"
 PACKAGES="$PACKAGES appfilter"
 PACKAGES="$PACKAGES attr"
 PACKAGES="$PACKAGES avahi-dbus-daemon"
