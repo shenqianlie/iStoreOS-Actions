@@ -28,7 +28,7 @@ on:
           - 'no'
 
 env:
-  VERSION: 24.10.3
+  VERSION: 24.10.4
 
 jobs:
   build:
